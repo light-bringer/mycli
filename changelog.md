@@ -1,6 +1,12 @@
 TBD
 ===
 
+Bug Fixes:
+----------
+
+* Fixed bug so that favorite queries can include unicode characters. (Thanks:
+  [Thomas Roten]).
+
 Internal Changes:
 -----------------
 
